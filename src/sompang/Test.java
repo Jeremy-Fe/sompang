@@ -18,5 +18,6 @@ public class Test {
 		System.out.println();
 		// 커믹 버전 4
 		
+		System.out.println("야호 신난다 기모링");
 	}
 }
